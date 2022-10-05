@@ -1,6 +1,6 @@
 ### Hi i`m interactive developer 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strong1133&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strong1133)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Framework
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/></a>&nbsp;
